@@ -1,1 +1,1 @@
-# my-portfolio
+# Я Диана - технический писатель. Здесь я собираю все примеры своих работ - от простых до сложных. / I’m Diana, a technical writer. Here I collect all the examples of my work — from simple to complex.
